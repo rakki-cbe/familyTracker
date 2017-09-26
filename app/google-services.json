@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "686120100341",
+    "firebase_url": "https://fir-familytraker.firebaseio.com",
+    "project_id": "firebase-familytraker",
+    "storage_bucket": "firebase-familytraker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686120100341:android:bd4659481a54df75",
+        "android_client_info": {
+          "package_name": "radhakrishnan.familytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686120100341-kr964nkvniosj4uc3bdqmln955pa6e1f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "686120100341-l68o8j0ce5ngf0g7a7sr2gf2vrtu895a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "radhakrishnan.familytracker",
+            "certificate_hash": "4f11e3fefd67acc26939d828d885b5b7a4e07dfe"
+          }
+        },
+        {
+          "client_id": "686120100341-qujeq9d4m2cmh32ohpvv4ub7ggod29h0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "686120100341-9v52laiejt3omad5eqs2dvgbkrri4ki9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "radhakrishnan.familytracker",
+            "certificate_hash": "a8a2c08fc72858eef255f891b5d46d8822772b4d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsOIQFR38BblaUe2CYs1vclsuU1f4obo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686120100341-kr964nkvniosj4uc3bdqmln955pa6e1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

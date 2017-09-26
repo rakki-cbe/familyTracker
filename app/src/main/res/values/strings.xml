@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FamilyTracker</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_traking">Map</string>
+    <string name="title_activity_tracking_new">TrackingActivityNew</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="TrackHim">Track</string>
+    <string name="EnterYourFriendCodeHint">Enter Code</string>
+    <string name="EnterYourFriendCode">Enter your friend code to locate him</string>
+    <string name="yourCode">Share this code to your friend to know your location</string>
+    <string name="Ok">@android:string/ok</string>
+    <string name="CodeCopied">Code copied</string>
+    <string name="Name">Name</string>
+    <string name="letTrack">Let\'s Track</string>
+    <string name="SomeThingWrongContactAdmin">Sorry we have issues please contact admin</string>
+    <string name="NameShouldNotBeEmpty">Name Should not be empty</string>
+    <string name="addMember">Add New Member For Tracking</string>
+    <string name="MembersList">Member List</string>
+    <string name="getMyTrackCode">Get My Track Code</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_list_track_users">ListTrackUsers</string>
+</resources>
